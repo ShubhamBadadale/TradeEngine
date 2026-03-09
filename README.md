@@ -211,9 +211,9 @@ GET /api/transactions
 
 ## Authors
 
-Vivek Shitole
-Yogeshvari Mandada
-Srusti Shinde
-Shubham Badadale
+- Vivek Shitole
+- Yogeshvari Mandada
+- Srusti Shinde
+- Shubham Badadale
 
 GitHub: https://github.com/ShubhamBadadale
