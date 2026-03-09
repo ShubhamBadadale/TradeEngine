@@ -19,6 +19,40 @@ The project is designed to demonstrate full-stack development skills: authentica
 
 ---
 
+## Features
+
+### User Login
+
+Users can securely login using JWT authentication.
+
+![Login](screenshots/login.png)
+
+---
+
+### Stock Market Dashboard
+
+Displays available stocks and prices.
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Buy / Sell Stocks
+
+Users can trade stocks and update their portfolio.
+
+![Trading](screenshots/MarketWatch.png)
+
+---
+
+### Portfolio Tracking
+
+Shows owned stocks and profit/loss.
+
+![Portfolio](screenshots/History.png)
+
+[![Watch Demo](screenshots/dashboard.png)](https://drive.google.com/file/d/1GUOfSg4hSiXtXXVX0kuZVkobu4AforGn/view?usp=drive_link)
+
 ## Tech Stack
 
 Frontend
@@ -175,8 +209,11 @@ GET /api/transactions
 
 ---
 
-## Author
+## Authors
 
+Vivek Shitole
+Yogeshvari Mandada
+Srusti Shinde
 Shubham Badadale
 
 GitHub: https://github.com/ShubhamBadadale
