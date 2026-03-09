@@ -25,7 +25,7 @@ The project is designed to demonstrate full-stack development skills: authentica
 
 Users can securely login using JWT authentication.
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ---
 
@@ -33,7 +33,7 @@ Users can securely login using JWT authentication.
 
 Displays available stocks and prices.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ---
 
